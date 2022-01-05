@@ -8,7 +8,7 @@ Squoosh has [an API](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsqu
 
 # Privacy
 
-Squoosh does not send your image to a server. All image compression processes locally.
+to a server. All image compression processes locally.
 
 However, Squoosh utilizes Google Analytics to collect the following:
 
